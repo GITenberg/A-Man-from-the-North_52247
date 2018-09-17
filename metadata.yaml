@@ -1,0 +1,30 @@
+_repo: A-Man-from-the-North_52247
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_issued: '2016-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- GITenberg
+title: A Man from the North
+url: http://www.gutenberg.org/ebooks/52247
